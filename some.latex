@@ -16,7 +16,7 @@
 
 \begin{rSection}{OBJECTIVE}
 
-{\textbf{Product Engineer - 1} with one year of experience in ROR development, seeking full time software development roles.}
+{\textbf{Product Engineer - 1} with \textbf{one} year of experience in ROR development, seeking full time software development roles.}
 
 
 \end{rSection}
@@ -52,25 +52,26 @@ Version Conrtrol & Git, Github\\
 
 \begin{rSection}{EXPERIENCE}
 
-\textbf{Product Engineer - 1} \hfill JUL 2022 - Present\\
-K2V2 Technologies [sell.do] \hfill \textit{Pune, India}
+\textbf{Product Engineer - 1 \textit{(Full Time)}} \hfill JUL 2022 - Present\\
+K2V2 Technologies [\href{https://www.sell.do/}{sell.do}] \hfill \textit{Pune, India}
  \begin{itemize}
     \itemsep -3pt {} 
-     \item Working on various modules of the CRM product.
-     \item Delivered almost 10 to 12 features for the product.
-    \item Spotted and removed various bugs of the product.
+     \item Working on several CRM product modules, such as sales, pre-sales, post-sales, inventory,reports, etc.
+     \item Delivered almost 10 to 12 features for the system like, Refund after cancellation, Notifications for post sales, Default UI reports, disable inventory, disable post-sales functionalities.
+    \item Spotted and removed various bugs, developed multiple reports for various clients.
+    \item We have used Ruby and Backbone.js for back-end and front-end respectively.
  \end{itemize}
  
-\textbf{Python and Web developer (intern)} \hfill OCT 2020-JAN 2021\\
+\textbf{Python and Web developer \textit{(Intern)}} \hfill OCT 2020-JAN 2021\\
 InvestSaathi \hfill \textit{Banglore, India (Remote)}
  \begin{itemize}
     \itemsep -3pt {} 
-     \item Developed finsuggest.com static website using web designing tools. (NodeJS)
+     \item Developed \href{https://finsuggest.com/}{finsuggest.com} static website using web designing tools. (NodeJS)
      \item Worked on NSE data through web scraping using Python (Standalone application)
  \end{itemize}
 
- \textbf{Python developer (intern)} \hfill JUN 2021-AUG 2021\\
-UST Globals \hfill \textit{Banglore, India (Remote)}
+ \textbf{Python developer \textit{(Intern)}} \hfill JUN 2021-AUG 2021\\
+\href{https://www.ust.com/}{UST Globals} \hfill \textit{Banglore, India (Remote)}
  \begin{itemize}
     \itemsep -3pt {} 
      \item Worked on the ARCG (Auto Root Cause Generator) project.
@@ -86,7 +87,7 @@ UST Globals \hfill \textit{Banglore, India (Remote)}
 
 \begin{rSection}{PROJECTS}
 \vspace{-1em}
-\item \textbf{Ecommerce Web Application (Django)} : {Developed a fully functional Ecommerce website using Django. I have worked on both the frontend and backend. You can visit source code \href{https://github.com/parimalmahindrakar/DjangoEcommerce}{here}.}
+\item \textbf{Ecommerce Web Application (Django)} : {Developed a fully functional Ecommerce website using Django. I have worked on both the front-end and back-end. You can visit source code \href{https://github.com/parimalmahindrakar/DjangoEcommerce}{here}.}
 \item \textbf{Customer Order Management (Flask)} : {To become familiar with the Flask framework and perform actual MySQL work. I created a website that will control how customers place their orders. You can view my source code \href{https://github.com/parimalmahindrakar/flask}{here} as well.}
 \item \textbf{Construction Material Management (NodeJS)} : {Again to become familiar with NodeJS and perform actual MySQL work. In a group of 4 members we created a website that will control how clients will place their orders for the materials they require for the construction. You can view my source code right \href{https://github.com/parimalmahindrakar/flask}{here} as well.}
 \end{rSection} 
