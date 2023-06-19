@@ -1,0 +1,96 @@
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Parimal N. Mahindrakar} % Your name
+% You can merge both of these into a single line, if you do not have a website.
+\address{+(91) 9373739698 \\ Pune, Maharashtra, India} 
+\address{\href{mailto:parimalm4653@gmail.com}{parimalm4653@gmail.com} \\ \href{https://www.linkedin.com/in/parimal-mahindrakar-189226190/}{LinkedIn} \\ \href{https://github.com/parimalmahindrakar}{GitHub}}  %
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+
+{\textbf{Product Engineer - 1} with one year of experience in ROR development, seeking full time software development roles.}
+
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf B.E. in Information Technology}, Savitribai Phule Pune University \hfill {2018-2022}
+
+{\bf Honors in Data Science}, Savitribai Phule Pune University \hfill {2020-2022}
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHINICAL STRENGTHS	
+%----------------------------------------------------------------------------------------
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Technical Skills & Python, Java, JavaScript, Ruby
+\\
+Frameworks & Flask, Django, RoR, NodeJS\\
+Databases & MySQL, MongoDB\\
+Version Conrtrol & Git, Github\\
+\end{tabular}\\
+\end{rSection}
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Product Engineer - 1} \hfill JUL 2022 - Present\\
+K2V2 Technologies [sell.do] \hfill \textit{Pune, India}
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item Working on various modules of the CRM product.
+     \item Delivered almost 10 to 12 features for the product.
+    \item Spotted and removed various bugs of the product.
+ \end{itemize}
+ 
+\textbf{Python and Web developer (intern)} \hfill OCT 2020-JAN 2021\\
+InvestSaathi \hfill \textit{Banglore, India (Remote)}
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item Developed finsuggest.com static website using web designing tools. (NodeJS)
+     \item Worked on NSE data through web scraping using Python (Standalone application)
+ \end{itemize}
+
+ \textbf{Python developer (intern)} \hfill JUN 2021-AUG 2021\\
+UST Globals \hfill \textit{Banglore, India (Remote)}
+ \begin{itemize}
+    \itemsep -3pt {} 
+     \item Worked on the ARCG (Auto Root Cause Generator) project.
+     \item Generated the model which will differ the bugs based on their severity.
+     \item Also created website as a tool in flask which will connect the model with UI.
+ \end{itemize}
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+\vspace{-1em}
+\item \textbf{Ecommerce Web Application (Django)} : {Developed a fully functional Ecommerce website using Django. I have worked on both the frontend and backend. You can visit source code \href{https://github.com/parimalmahindrakar/DjangoEcommerce}{here}.}
+\item \textbf{Customer Order Management (Flask)} : {To become familiar with the Flask framework and perform actual MySQL work. I created a website that will control how customers place their orders. You can view my source code \href{https://github.com/parimalmahindrakar/flask}{here} as well.}
+\item \textbf{Construction Material Management (NodeJS)} : {Again to become familiar with NodeJS and perform actual MySQL work. In a group of 4 members we created a website that will control how clients will place their orders for the materials they require for the construction. You can view my source code right \href{https://github.com/parimalmahindrakar/flask}{here} as well.}
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
